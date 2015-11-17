@@ -1,0 +1,121 @@
+@import "settings";
+@import "foundation";
+
+// Or selectively include components
+// @import
+//   "foundation/components/accordion",
+//   "foundation/components/alert-boxes",
+//   "foundation/components/block-grid",
+//   "foundation/components/breadcrumbs",
+//   "foundation/components/button-groups",
+//   "foundation/components/buttons",
+//   "foundation/components/clearing",
+//   "foundation/components/dropdown",
+//   "foundation/components/dropdown-buttons",
+//   "foundation/components/flex-video",
+//   "foundation/components/forms",
+//   "foundation/components/grid",
+//   "foundation/components/inline-lists",
+//   "foundation/components/joyride",
+//   "foundation/components/keystrokes",
+//   "foundation/components/labels",
+//   "foundation/components/magellan",
+//   "foundation/components/orbit",
+//   "foundation/components/pagination",
+//   "foundation/components/panels",
+//   "foundation/components/pricing-tables",
+//   "foundation/components/progress-bars",
+//   "foundation/components/reveal",
+//   "foundation/components/side-nav",
+//   "foundation/components/split-buttons",
+//   "foundation/components/sub-nav",
+//   "foundation/components/switches",
+//   "foundation/components/tables",
+//   "foundation/components/tabs",
+//   "foundation/components/thumbs",
+//   "foundation/components/tooltips",
+//   "foundation/components/top-bar",
+//   "foundation/components/type",
+//   "foundation/components/offcanvas",
+//   "foundation/components/visibility";
+
+// body {
+// 	background-image:url("horse.jpg");
+
+
+
+//  // {
+// 	// background-image:url("horse.jpg");
+// 	// height:200px;
+// 	// width:800px;
+// 	// position:fixed;
+// 	// // width:100%;
+// 	// z-index: -1;
+	
+
+// }
+
+body {
+	background-color: #181310;
+}
+
+.homepage-hero{
+	// height:70%;
+	// width:10%;
+	// background-size: 100% 100%;
+	background-attachment: fixed;
+	background-image: url(../images/horse.jpg);
+	background-position: 40%;
+	background-size:auto 100%;
+	background-repeat: no-repeat;
+	padding-top: 0px;
+	padding-bottom: 500px;
+	width:100%;
+
+}
+
+.centered-text{
+  
+  // color:#FFFFFF;
+  // line-height:1.1;
+  // margin-bottom:30px;
+}
+.centered-text {
+  text-align:center;
+  color:#ffffff
+}
+
+// h1 {
+//   font-size:3em;
+// }
+
+// h1 {
+//   font-size:2.125em;
+// }
+
+// h1, h2, h3, h4, h5, h6 {
+//   color:#333333;
+//   font-family:'Proxima Nova', proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+//   font-weight:400;
+// }
+
+// h1, h2, h3, h4, h5, h6 {
+//   color:#222222;
+//   font-family:'Helvetica Neue', Helvetica, Helvetica, Arial, sans-serif;
+//   font-style:normal;
+//   font-weight:bold;
+//   line-height:1.2125em;
+//   margin-bottom:0.5em;
+//   margin-top:0.2em;
+//   text-rendering:optimizelegibility;
+// }
+
+// div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {
+//   direction:ltr;
+//   margin:0;
+//   padding:0;
+// }
+
+// *, ::before, ::after {
+//   box-sizing:border-box;
+// }
