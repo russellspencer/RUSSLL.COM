@@ -11655,14 +11655,15 @@ body
 
 .homepage-hero
 {
-    width: 100%;
-    padding-top: 0;
-    padding-bottom: 500px;
+    width: 100 vw;
+    padding-top: 20px;
+    /*padding-bottom: 600px;*/
+    height: 90vh;
 
     background-image: url(../images/horse.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: 40%;
+    background-position: 45%;
     background-size: auto 100%;
 }
 
